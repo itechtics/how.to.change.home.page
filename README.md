@@ -1,7 +1,7 @@
 # How to change home page?
 
 
-[![how to change home page](red2.png)](https://computersolve.com/how-to-change-home-page/)
+[![how to change home page](red2.png)](https://icncomputer.com/how-to-change-home-page/)
 
 Many of us have a favorite or frequently-visited website that we would like to display when opening a browser or clicking the home button. The following sections contain information on **how to change the home page** for many of the popular Internet browsers. To proceed, select your browser from the list below and follow the steps.
 
